@@ -1,14 +1,14 @@
 
-import './App.css'
+import RPS from './RPS'
+import 
+
 
 function App() {
-
-
   return (
     <>
-      
+      <RPS />
     </>
   )
-}
+};
 
-export default App
+export default App;
